@@ -174,9 +174,6 @@ h2 {
   }
 }
 
-.Body-1 {
-  background-color: orange;
-}
 
 #conocimientos {
   background: url('/conocimientos.webp') no-repeat center center fixed;
@@ -204,8 +201,7 @@ h2 {
 }
 
 #conocimientos .Imagenes img {
-  width: 100px;
-  max-width: 100%;
+  width: 70px;
   height: auto;
   margin-bottom: 60px;
 }
